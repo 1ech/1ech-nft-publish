@@ -1,4 +1,4 @@
-# PancakeSwap NFT listing
+# 1ech NFT listing
 
 Here is an app for help chefs listing NFT. You only need provide necessary env params and run it
 
